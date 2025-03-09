@@ -10,12 +10,12 @@ Heritage Hub is a robust and scalable web application that allows users to book 
 ### Frontend Part
 My primary contribution to this project was designing and developing the frontend using React.js to ensure a seamless and interactive user experience.
 Key aspects of my work include:
-- Component-Based Architecture: Designed and implemented reusable, modular React components to enhance scalability and maintainability.
-- State Management: Managed application state efficiently using React Hooks (useState, useEffect) and Context API where necessary.
-- Responsive UI & Styling: Ensured a fully responsive design using CSS, Tailwind CSS (or styled-components, if applicable), making the platform accessible across devices.
-- API Integration: Integrated RESTful APIs to fetch and display real-time data dynamically, ensuring smooth user interactions.
-- Routing & Navigation: Implemented React Router for seamless navigation between different pages.
-- Performance Optimization: Improved loading speeds and overall performance by implementing lazy loading, memoization, and code splitting.
+- **Component-Based Architecture:** Designed and implemented reusable, modular React components to enhance scalability and maintainability.
+- **State Management:** Managed application state efficiently using React Hooks (useState, useEffect) and Context API where necessary.
+- **Responsive UI & Styling:** Ensured a fully responsive design using CSS, Tailwind CSS (or styled-components, if applicable), making the platform accessible across devices.
+- **API Integration:** Integrated RESTful APIs to fetch and display real-time data dynamically, ensuring smooth user interactions.
+- **Routing & Navigation:** Implemented React Router for seamless navigation between different pages.
+- **Performance Optimization:** Improved loading speeds and overall performance by implementing lazy loading, memoization, and code splitting.
 I collaborated closely with the backend team to ensure smooth API integrations and worked with designers to enhance the user interface (UI) and user experience (UX). My contributions played a key role in making the platform intuitive, efficient, and visually appealing 
 
 ## Features
